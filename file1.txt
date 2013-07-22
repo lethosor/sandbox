@@ -2,5 +2,4 @@ Hi
 Testing creation of local repo first
 
 Used `git remote add origin https://github.com/lethosor/sandbox.git`, `git pull origin master`, `git push`
-Used `git remote add origin https://github.com/lethosor/sandbox.git`, `git pull origin master`, `git push`
 (pull was due to readme)
