@@ -1,0 +1,3 @@
+[submodule "rater"]
+	path = rater
+	url = https://github.com/lethosor/dfwiki-rater.git
