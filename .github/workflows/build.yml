@@ -9,3 +9,4 @@ jobs:
     - name: Test
       run: |
         false
+        true
