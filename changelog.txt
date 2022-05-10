@@ -1,0 +1,13 @@
+# Future
+
+## Scripts
+add-thought: something
+
+## Plugins
+3dveins: x
+
+# Past
+
+asdf
+asdf
+asdf
