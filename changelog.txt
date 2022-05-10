@@ -3,6 +3,7 @@
 ## Scripts
 add-thought: something
 build-now: feature
+caravan: maybe not a conflict?
 
 ## Plugins
 3dveins: x
