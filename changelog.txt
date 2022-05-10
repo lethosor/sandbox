@@ -2,6 +2,7 @@
 
 ## Scripts
 add-thought: something
+build-now: feature
 
 ## Plugins
 3dveins: x
