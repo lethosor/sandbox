@@ -1,7 +1,7 @@
 # Future
 
 ## Scripts
-add-thought: something
+add-thought: fixed something
 build-now: feature
 
 ## Plugins
